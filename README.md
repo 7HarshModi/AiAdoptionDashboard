@@ -31,7 +31,7 @@ The aim of this project is to provide decision-makers, researchers, and data ent
 
 ## 📷 Dashboard Preview
 
-click here : 
+click here : https://github.com/7HarshModi/AiAdoptionDashboard/blob/main/Ai%20adoption1.png
 
 ---
 
